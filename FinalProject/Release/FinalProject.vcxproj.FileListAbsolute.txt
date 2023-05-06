@@ -1,0 +1,4 @@
+D:\Yuan\OOP\Homework\FinalProject\FinalProject\Release\FinalProject.vcxproj.AssemblyReference.cache
+D:\Yuan\OOP\Homework\FinalProject\FinalProject\Release\FinalProject.vcxproj.GenerateResource.cache
+D:\Yuan\OOP\Homework\FinalProject\FinalProject\Release\FinalProject.Map.resources
+D:\Yuan\OOP\Homework\FinalProject\FinalProject\Release\FinalProject.MessageForm.resources
